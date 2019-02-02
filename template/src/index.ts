@@ -1,1 +1,3 @@
-console.log('Project <%= name %>')
+export default function() {
+  console.log('Project <%= name %>')
+}
